@@ -1,0 +1,24 @@
+<style>
+  .center{
+    text-align: center;
+
+  }
+  .fonthead{
+    font-family: fantasy;
+    color:rgb(200, 100,120);
+  }
+  .body{
+    line-height: 1.2em;
+    font-size: 1.2em;
+    font-family: Georgia, serif;
+    text-align: justify;
+    background-color: grey;
+  }
+  .h2{
+      background-color: rgb(190, 100, 120);
+  }
+  .image-size{
+      width: 200px;
+      height: 180px;
+  }
+  </style>
